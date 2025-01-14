@@ -1,7 +1,7 @@
 # COVID-19 Vaccination Trends Visualizer: Canada vs United States
 
 ## Description
-This project uses pandas and matplotlib to visualize COVID-19 vaccination trends in Canada and the United States in a neat, visually appealing graph. Using publicly available data from Our World in Data, it compares the percentage of the population to be fully vaccinated against COVID-19 over time. 
+This project uses pandas and matplotlib to visualize COVID-19 vaccination trends in Canada and the United States in a neat, visually appealing graph. Using publicly available data from Our World in Data, it compares the percentage of the population to be fully vaccinated against COVID-19 between 2020 and 2023. 
 
 ## Features
 - Colourful line graphs showing vaccination trends for each country.
